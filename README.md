@@ -1,4 +1,4 @@
-Python Projects - Tube2Bokeh
+Python Projects-Tube2Bokeh
 A Python-based case study project that combines web scraping, data visualization with Bokeh, and YouTube playlist downloading into one workflow.
 Features
 
